@@ -1,0 +1,10 @@
+/* Reset some basic styles */
+body, h1, p, ul, li, form, input, textarea {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body and Content */
+body {
+    font-family: Arial, sans-serif;
